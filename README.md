@@ -2,7 +2,7 @@
 
 ### Cybersecurity Architect · Wharton MBA · Venture Fellow
 
-I spent four years trying to throw a 95 mph fastball. Now I build security systems for the Federal Reserve and advise startups on how not to get hacked.
+I went to college to become a physical therapist. Now I build security systems for the Federal Reserve and advise startups on how not to get hacked.
 
 This is my operating manual.
 
