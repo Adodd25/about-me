@@ -70,4 +70,3 @@ I'm interested in where cybersecurity, artificial intelligence, investing, and b
 
 This manual is inspired by [Bloomberg Beta's operating manual](https://github.com/Bloomberg-Beta/Manual). I believe in transparency about how I work and what I believe.
 
-Why is this on GitHub? Because it's version-controlled, publicly accessible, and anyone can see how my thinking evolves over time.
