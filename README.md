@@ -1,83 +1,73 @@
-# Hi, I'm a Cybersecurity Architect turned Strategist
+# Anthony Dodd
 
-I protect critical financial infrastructure, advise startups on security, and invest in the future of technology.
+### Cybersecurity Architect · Wharton MBA · Venture Fellow
 
-Currently pursuing my **MBA at Wharton** while exploring the intersection of cybersecurity, business strategy, and venture capital.
+I spent four years trying to throw a 95 mph fastball. Now I build security systems for the Federal Reserve and advise startups on how not to get hacked.
 
----
-
-## What I'm Doing Now
-
-- **Wharton MBA** — Studying Strategic Management at the University of Pennsylvania (Expected 2027)
-- **HBCUvc Senior Fellow** — Mentoring founders and building inclusive pathways into venture capital
-- **SANS GIAC Advisory Board** — Advancing cybersecurity certification and professional development
-- **Exploring** — The intersection of AI, cybersecurity, and venture investing
+This is my operating manual.
 
 ---
 
-## My Background
+## Start Here
 
-My path wasn't traditional. I started with a BA in Kinesiology from **Morehouse College**, where I played baseball on scholarship. Then I discovered my passion for technology and security.
+**[My Story](1%20-%20My%20Story.md)** — From baseball scholarship to cybersecurity architect. The unexpected path.
 
-This led me to earn my MS in Cybersecurity from the **University of Tampa**, graduating *Magna Cum Laude* and named *Outstanding MS Student of the Year*.
+**[What I Believe](2%20-%20What%20I%20Believe.md)** — My principles on security, leadership, and building inclusive ecosystems.
 
-Today, I architect security solutions for critical financial infrastructure and think about how technology, security, and business strategy intersect.
-
----
-
-## Experience
-
-### Federal Reserve Bank of Atlanta
-**Cybersecurity Architect** · 2022 – Present
-
-Oversee multifactor authentication across the Sixth District and design cloud security solutions for critical financial infrastructure.
-
-- Led MFA compliance from 30% → 90% across the district
-- Built tools that improved security efficiency by 50%
-- Reduced cybersecurity response time by 50%
-
-### Techstars
-**Venture Capital Fellow** · 2022
-
-- Advised 20+ startups on cybersecurity strategy
-- Helped structure investor relations for a $150M investment fund
-
-### Protiviti
-**Security Consultant** · 2021 – 2022
-
-- Conducted security assessments for Fortune 500 companies
-- Presented findings to C-suite executives
-- Led international teams building cybersecurity tools
+**[Now](3%20-%20Now.md)** — What I'm currently focused on. Updated regularly.
 
 ---
 
-## Education
+## The Short Version
 
-| Degree | School | Year |
-|--------|--------|------|
-| MBA, Strategic Management | **The Wharton School** (UPenn) | 2027 |
-| MS, Cybersecurity | **University of Tampa** · 3.93 GPA · Magna Cum Laude | 2021 |
-| BA, Kinesiology | **Morehouse College** · 3.96 GPA · Baseball | 2018 |
+I protect critical financial infrastructure at the **Federal Reserve Bank of Atlanta**, where I oversee multifactor authentication across the Sixth District and design cloud security solutions.
 
-**Certifications:** SANS GSEC · Security+
+I'm pursuing my **MBA at Wharton** because I believe the best security leaders understand both the technical and business sides of the equation.
+
+Through **HBCUvc** and **Techstars**, I've advised 20+ startups and helped structure a $150M investment fund. I'm interested in where cybersecurity, venture capital, and business strategy intersect.
 
 ---
 
-## What I Believe
+## Ask Me About
 
-**Security is a business problem.** The best security solutions consider business context, user experience, and organizational culture—not just technical controls.
-
-**Diverse perspectives matter.** My unconventional path taught me that different backgrounds bring unique insights. I'm committed to building inclusive ecosystems in tech and venture.
-
-**Lift as you climb.** Through HBCUvc and mentorship, I work to create pathways for underrepresented talent in cybersecurity and venture capital.
+- Building security programs from scratch
+- Breaking into cybersecurity from non-traditional backgrounds
+- Cloud security architecture for financial institutions
+- The cybersecurity + venture capital intersection
+- Advising early-stage startups on security strategy
 
 ---
 
-## Let's Connect
+## Timeline
 
-I'm always interested in meeting people working on interesting problems in cybersecurity, fintech, or venture.
+```
+2018 → Graduated Morehouse College (Baseball scholarship, Kinesiology)
+2021 → MS Cybersecurity, University of Tampa (Magna Cum Laude, Outstanding Student)
+2021 → Protiviti — Security consulting for Fortune 500
+2022 → Techstars — Venture Capital Fellow
+2022 → Federal Reserve Bank of Atlanta — Cybersecurity Architect
+2025 → The Wharton School — MBA candidate
+```
 
-Whether you're a founder thinking about security, a fellow security professional, or someone exploring the VC space—I'd love to hear from you.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-dodd/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+## Let's Talk If...
+
+✅ You're building something in security or fintech
+✅ You're breaking into cybersecurity from a non-traditional background
+✅ You want to discuss security strategy for your startup
+✅ You're exploring the VC space and want to connect
+
+---
+
+## Find Me
+
+**[LinkedIn](https://www.linkedin.com/in/anthony-dodd/)**
+
+---
+
+## Colophon
+
+This manual is inspired by [Bloomberg Beta's operating manual](https://github.com/Bloomberg-Beta/Manual). I believe in transparency about how I work and what I believe.
+
+Why is this on GitHub? Because it's version-controlled, publicly accessible, and anyone can see how my thinking evolves over time.
