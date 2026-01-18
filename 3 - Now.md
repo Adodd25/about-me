@@ -16,6 +16,8 @@ I'm in my MBA program at **The Wharton School**, focusing on Strategic Managemen
 
 
 **Working on:**
+- Studying how AI can be used to improve cybersecurity—from threat detection to automated response
+- Exploring AI applications for business strategy and decision-making
 - Understanding how security strategy aligns with corporate strategy
 - Building frameworks for security investment decisions
 - Connecting with classmates building in fintech and enterprise software
