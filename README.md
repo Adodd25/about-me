@@ -2,9 +2,9 @@
 
 ### Cybersecurity Architect · Wharton MBA · Venture Fellow
 
-**[LinkedIn](https://www.linkedin.com/in/anthony-dodd/)**
+**[LinkedIn](https://www.linkedin.com/in/anthony-dodd/)** · **[Email](mailto:dodd9jr@gmail.com)**
 
-I went to college to become a physical therapist. Now I build security systems for the Federal Reserve and advise startups on how not to get hacked.
+I went to college to become a physical therapist. Now I study how AI can transform cybersecurity and business—while advising startups on how not to get hacked.
 
 This is my operating manual.
 
@@ -22,9 +22,9 @@ This is my operating manual.
 
 ## The Short Version
 
-I protect critical financial infrastructure at the **Federal Reserve Bank of Atlanta**, where I oversee multifactor authentication across the Sixth District and design cloud security solutions.
+I'm pursuing my **MBA at Wharton**, studying how AI can improve both cybersecurity and business strategy. I believe the best security leaders understand both the technical and business sides of the equation.
 
-I'm pursuing my **MBA at Wharton** because I believe the best security leaders understand both the technical and business sides of the equation.
+Previously, I protected critical financial infrastructure at the **Federal Reserve Bank of Atlanta**, where I oversaw multifactor authentication across the Sixth District and designed cloud security solutions.
 
 Through **Techstars**, I advised 20+ startups on security and supported fund operations (diligence, memos, pipeline) for a ~$150M vehicle. As a **Senior Fellow at HBCUvc**, I mentor founders and help build inclusive pathways into venture.
 
@@ -51,18 +51,19 @@ I'm interested in where cybersecurity, artificial intelligence, investing, and b
 2021 → Protiviti — Security consulting for Fortune 500
 2022 → Techstars — Venture Capital Fellow
 2022 → Federal Reserve Bank of Atlanta — Cybersecurity Architect
-2025 → The Wharton School — MBA candidate
+2024 → The Wharton School — MBA candidate
+ Now → Studying how AI can improve cybersecurity and business strategy
 ```
 
 ---
 
 ## Let's Talk If...
 
-✅ You're building something in security, AI, or fintech
-✅ You're breaking into cybersecurity from a non-traditional background
-✅ You want to discuss security strategy for your startup
-✅ You're thinking about how AI changes the security landscape
-✅ You're exploring the VC space and want to connect
+- You're building something in security, AI, or fintech
+- You're breaking into cybersecurity from a non-traditional background
+- You want to discuss security strategy for your startup
+- You're thinking about how AI changes the security landscape
+- You're exploring the VC space and want to connect
 
 ---
 
