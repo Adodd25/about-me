@@ -20,7 +20,7 @@
 
 **Lift as you climb.** Success means nothing if you're not bringing others with you. Through HBCUvc and mentorship, I work to create pathways for underrepresented talent in cybersecurity and venture capital.
 
-**Diverse perspectives make better decisions.** My unconventional path—from Kinesiology to cybersecurity—taught me that different backgrounds bring unique insights. Teams that think alike miss blind spots.
+**Diverse perspectives make better decisions.** I've watched rooms full of engineers miss obvious social engineering risks because nobody thought like an attacker—or like a normal person. Homogeneous teams have homogeneous blind spots.
 
 **Translate, don't intimidate.** Technical jargon alienates stakeholders. The best security leaders can explain complex risks in terms that resonate with executives, board members, and everyday users.
 
@@ -34,7 +34,7 @@
 
 **Depth and breadth both matter.** Go deep in one area—become an expert. But also go broad—understand how your expertise connects to business, strategy, and other domains.
 
-**Your network is your net worth.** Not in a transactional way. In a genuine, human way. Help people. Stay in touch. The opportunities will follow.
+**Relationships compound.** Every meaningful career opportunity I've had came from someone I helped without expecting anything back. That's not networking advice—it's just what happened.
 
 **Bet on yourself.** I went back to school twice—once for my MS, once for my MBA. Both were risks. Both were worth it.
 
@@ -46,7 +46,7 @@
 
 **Most security advice for startups is wrong.** Startups don't need enterprise security programs. They need right-sized security that grows with them.
 
-**The best founders listen.** Not to everyone. But to people with relevant experience. Coachability is underrated.
+**The best founders listen.** At Techstars, the startups that succeeded weren't the ones with the best tech. They were the ones that took feedback seriously and adapted.
 
 ---
 
@@ -64,11 +64,11 @@
 
 1. **Do the work.** There are no shortcuts. Preparation beats talent when talent doesn't prepare.
 
-2. **Stay curious.** The threat landscape changes constantly. So should your knowledge.
+2. **Stay curious.** The moment you think you understand the threat landscape, it's already shifted.
 
 3. **Build relationships before you need them.** Don't network when you need something. Network all the time.
 
-4. **Embrace the uncomfortable.** Growth happens outside your comfort zone. Pursue it.
+4. **Embrace the uncomfortable.** I went from studying the human body to protecting financial infrastructure. Every major leap felt wrong at first.
 
 5. **Leave things better than you found them.** Code, teams, organizations, communities.
 
