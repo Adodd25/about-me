@@ -36,7 +36,7 @@ The non-traditional background I thought was a weakness became my strength. I th
 
 **Techstars** opened my eyes to venture capital. As a VC Fellow, I advised 20+ startups on security strategy and helped structure investor relations for a $150M fund. I saw how security could enable—or destroy—young companies.
 
-**The Federal Reserve Bank of Atlanta** is where I found my calling. I oversee multifactor authentication across the Sixth District and design cloud security solutions for critical financial infrastructure. The work matters. When you're protecting the systems that underpin the American economy, there's no room for error.
+**The Federal Reserve Bank of Atlanta** is where I found my calling. I oversaw multifactor authentication across the Sixth District and designed cloud security solutions for critical financial infrastructure. The work mattered. When you're protecting the systems that underpin the American economy, there's no room for error.
 
 ---
 

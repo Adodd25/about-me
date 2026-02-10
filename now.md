@@ -2,7 +2,7 @@
 
 [← Back to main](README.md)
 
-*Last updated: January 2025*
+*Last updated: February 2025*
 
 ---
 
@@ -14,22 +14,18 @@ This is a [now page](https://nownownow.com/about). It's what I'd tell a friend I
 
 I'm in my MBA program at **The Wharton School**, focusing on Strategic Management.
 
-
 **Working on:**
-- Studying how AI can be used to improve cybersecurity—from threat detection to automated response
-- Exploring AI applications for business strategy and decision-making
-- Understanding how security strategy aligns with corporate strategy
-- Building frameworks for security investment decisions
+- Researching how large language models change the threat landscape—both as attack surface and defensive tool
+- Building a framework for how CISOs should evaluate AI-security vendor claims vs. real capability
 - Connecting with classmates building in fintech and enterprise software
 
 ---
 
 ## Thinking About
 
-- **AI and security** — How do we secure AI systems? How do AI systems change the threat landscape? Both questions keep me up at night.
-- **Security as a product** — Most security is sold as fear. What if it was sold as enablement?
-- **The CISO career path** — What does modern security leadership look like? How do you get there?
-
+- **AI and security** — Most "AI-powered security" products are pattern matching with a chatbot on top. The real shift hasn't happened yet. I'm trying to figure out what it actually looks like.
+- **Security as a product** — Most security is sold as fear. What if it was sold as enablement? The companies that figure this out will win.
+- **The CISO career path** — The role is evolving faster than the pipeline. What does modern security leadership actually require?
 
 ---
 
@@ -45,7 +41,6 @@ I'm in my MBA program at **The Wharton School**, focusing on Strategic Managemen
 - Advisory roles for early-stage security startups
 - Speaking on cybersecurity, career transitions, or diversity in tech
 - Connecting with other Wharton students building in security
-
 
 ---
 

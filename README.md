@@ -1,6 +1,6 @@
 # Anthony Dodd
 
-### Cybersecurity Architect · Wharton MBA · Venture Fellow
+### Wharton MBA Candidate · Cybersecurity · Venture Fellow
 
 **[LinkedIn](https://www.linkedin.com/in/anthony-dodd/)** · **[Email](mailto:dodd9jr@gmail.com)**
 
@@ -12,34 +12,23 @@ This is my operating manual.
 
 ## Start Here
 
-**[My Story](1%20-%20My%20Story.md)** — From physical therapy to cybersecurity. The unexpected path.
+**[My Story](my-story.md)** — From physical therapy to cybersecurity. The unexpected path.
 
-**[What I Believe](2%20-%20What%20I%20Believe.md)** — My principles on security, leadership, and building inclusive ecosystems.
+**[What I Believe](beliefs.md)** — My principles on security, leadership, and building inclusive ecosystems.
 
-**[Now](3%20-%20Now.md)** — What I'm currently focused on. Updated regularly.
+**[Now](now.md)** — What I'm currently focused on. Updated regularly.
 
 ---
 
 ## The Short Version
 
-I'm pursuing my **MBA at Wharton**, studying how AI can improve both cybersecurity and business strategy. I believe the best security leaders understand both the technical and business sides of the equation.
+I'm pursuing my **MBA at Wharton** because I think the biggest gap in cybersecurity isn't technical—it's strategic. Most security leaders can build a SOC. Fewer can explain to a board why it matters.
 
 Previously, I protected critical financial infrastructure at the **Federal Reserve Bank of Atlanta**, where I oversaw multifactor authentication across the Sixth District and designed cloud security solutions.
 
 Through **Techstars**, I advised 20+ startups on security and supported fund operations (diligence, memos, pipeline) for a ~$150M vehicle. As a **Senior Fellow at HBCUvc**, I mentor founders and help build inclusive pathways into venture.
 
-I'm interested in where cybersecurity, artificial intelligence, investing, and business strategy intersect.
-
----
-
-## Ask Me About
-
-- Building security programs from scratch
-- Breaking into cybersecurity from non-traditional backgrounds
-- Cloud security architecture for financial institutions
-- AI's impact on cybersecurity (offense and defense)
-- The cybersecurity + venture capital intersection
-- Advising early-stage startups on security strategy
+I think the next generation of security leaders will look more like business strategists than engineers. I'm trying to be one of them.
 
 ---
 
@@ -52,22 +41,20 @@ I'm interested in where cybersecurity, artificial intelligence, investing, and b
 2022 → Techstars — Venture Capital Fellow
 2022 → Federal Reserve Bank of Atlanta — Cybersecurity Architect
 2024 → The Wharton School — MBA candidate
- Now → Studying how AI can improve cybersecurity and business strategy
+Now  → Studying how AI can improve cybersecurity and business strategy
 ```
 
 ---
 
 ## Let's Talk If...
 
-- You're building something in security, AI, or fintech
+- You're building in security, AI, or fintech and want to talk strategy
 - You're breaking into cybersecurity from a non-traditional background
-- You want to discuss security strategy for your startup
-- You're thinking about how AI changes the security landscape
-- You're exploring the VC space and want to connect
+- You need security architecture advice for your startup
+- You're a VC investing in enterprise or security
 
 ---
 
 ## Colophon
 
 This manual is inspired by [Bloomberg Beta's operating manual](https://github.com/Bloomberg-Beta/Manual). I believe in transparency about how I work and what I believe.
-
