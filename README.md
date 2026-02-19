@@ -6,7 +6,7 @@
 
 I went to college to become a physical therapist. Now I study how AI can transform cybersecurity and business—while advising startups on how not to get hacked.
 
-This is my operating manual.
+This is my professional operating manual — how I think about security, venture, and leadership.
 
 ---
 
