@@ -6,7 +6,7 @@
 
 I went to college to become a physical therapist. Now I study how AI can transform cybersecurity and business—while advising startups on how not to get hacked.
 
-This is my operating manual.
+This is my professional operating manual — how I think about security, venture, and leadership.
 
 ---
 
@@ -17,6 +17,8 @@ This is my operating manual.
 **[What I Believe](beliefs.md)** — My principles on security, leadership, and building inclusive ecosystems.
 
 **[Now](now.md)** — What I'm currently focused on. Updated regularly.
+
+**[Cyber VC Prep](cyber-vc-prep.md)** — The AI-security market map, company tracker, and reading list I use to stay current.
 
 ---
 

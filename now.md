@@ -2,7 +2,7 @@
 
 [← Back to main](README.md)
 
-*Last updated: February 2025*
+*Last updated: February 2026*
 
 ---
 
