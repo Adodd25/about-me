@@ -18,6 +18,8 @@ This is my professional operating manual — how I think about security, venture
 
 **[Now](now.md)** — What I'm currently focused on. Updated regularly.
 
+**[Cyber VC Prep](cyber-vc-prep.md)** — The AI-security market map, company tracker, and reading list I use to stay current.
+
 ---
 
 ## The Short Version
